@@ -1,9 +1,0 @@
-name: introduction-to-web-scraping
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - requests
-  - beautifulsoup4
-  - pandas
-  - lxml
