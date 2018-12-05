@@ -4,5 +4,5 @@ channels:
 dependencies:
   - python
   - requests
-  - bs4
+  - beautifulsoup4
   - pandas
